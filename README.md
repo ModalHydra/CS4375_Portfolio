@@ -8,4 +8,4 @@ Hear is the link to [Overview of ML](Overview_of_ML.pdf)
 Here is the link to the [C++ Data Exploration Code](C++_Data_Exploration.cpp) and here is the [C++ Data Exploration Report](C++_Data_Exploration.pdf)
 
 ## Linear Models
-Here is the link for the [Weather Linear Regression Model](Regression.nb.html)
+Here is the link for the [Weather Linear Regression Model](LinearRegression.pdf)
