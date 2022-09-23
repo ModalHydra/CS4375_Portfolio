@@ -9,3 +9,4 @@ Here is the link to the [C++ Data Exploration Code](C++_Data_Exploration.cpp) an
 
 ## Linear Models
 Here is the link for the [Weather Linear Regression Model](LinearRegression.pdf)
+Here is the link for the [Housing Logistic Regression Model](Classification.pdf)
