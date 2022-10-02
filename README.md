@@ -13,4 +13,4 @@ Here is the link for the [Weather Linear Regression Model](LinearRegression.pdf)
 Here is the link for the [Housing Logistic Regression Model](Classification.pdf) pdf file and [here](Classification.Rmd) is the rmd link
 
 ## ML From Scratch
-Here is the link for the [ML From Scratch](ML_from_scratch.docx) and here is the [Code for the Logistic regression and naive Bayes](ML_From_Scratch.cpp)
+Here is the link for the [ML From Scratch](ML_from_scratch.pdf) and here is the [Code for the Logistic regression and naive Bayes](ML_From_Scratch.cpp)
