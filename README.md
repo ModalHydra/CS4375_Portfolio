@@ -16,5 +16,7 @@ Here is the link for the [Housing Logistic Regression Model](Classification.pdf)
 Here is the link for the [ML From Scratch pdf document](ML_from_scratch.pdf) and here is the [Code for the Logistic regression and naive Bayes](ML_From_Scratch.cpp)
 Here are the links for the sources used in the document
 [A Guide to Computational Reproducibility in Signal Processing and Machine Learning](https://arxiv.org/abs/2108.12383)
+
 [The Importance of Reproducibility in Machine Learning Applications](https://www.decisivedge.com/blog/the-importance-of-reproducibility-in-machine-learning-applications/#:~:text=Reproducibility%20with%20respect%20to%20machine,reporting%2C%20data%20analysis%20and%20interpretation)
+
 [Deep Understanding of Discriminative and Generative Models in Machine Learning](https://www.analyticsvidhya.com/blog/2021/07/deep-understanding-of-discriminative-and-generative-models-in-machine-learning/#:~:text=Discriminative%20models%20draw%20boundaries%20in,the%20labels%20of%20the%20data)
