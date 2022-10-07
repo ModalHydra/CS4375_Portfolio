@@ -21,3 +21,14 @@ Here are the links for the sources used in the document
 2. [The Importance of Reproducibility in Machine Learning Applications](https://www.decisivedge.com/blog/the-importance-of-reproducibility-in-machine-learning-applications/#:~:text=Reproducibility%20with%20respect%20to%20machine,reporting%2C%20data%20analysis%20and%20interpretation)
 
 3. [Deep Understanding of Discriminative and Generative Models in Machine Learning](https://www.analyticsvidhya.com/blog/2021/07/deep-understanding-of-discriminative-and-generative-models-in-machine-learning/#:~:text=Discriminative%20models%20draw%20boundaries%20in,the%20labels%20of%20the%20data)
+
+
+## Similarity
+
+Here is the link for the [Regression Notebook PDF](NB1-Regression.pdf)
+
+Here is the link for the [Classification Notebook PDF](NB2-Classification.pdf)
+
+Here is the link for the [Clustering Notebook PDF](NB3-Clustering.pdf)
+
+Here is the link for the [PCA and LDA Notebook PDF](NB4-PCA-and-LDA.pdf)
