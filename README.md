@@ -32,3 +32,5 @@ Here is the link for the [Classification Notebook PDF](NB2-Classification.pdf)
 Here is the link for the [Clustering Notebook PDF](NB3-Clustering.pdf)
 
 Here is the link for the [PCA and LDA Notebook PDF](NB4-PCA-and-LDA.pdf)
+
+Here is the link to the [word document](SimilarityDocument.docx)
