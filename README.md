@@ -22,7 +22,6 @@ Here are the links for the sources used in the document
 
 3. [Deep Understanding of Discriminative and Generative Models in Machine Learning](https://www.analyticsvidhya.com/blog/2021/07/deep-understanding-of-discriminative-and-generative-models-in-machine-learning/#:~:text=Discriminative%20models%20draw%20boundaries%20in,the%20labels%20of%20the%20data)
 
-
 ## Similarity
 
 Here is the link for the [Regression Notebook PDF](NB1-Regression.pdf)
@@ -34,3 +33,14 @@ Here is the link for the [Clustering Notebook PDF](NB3-Clustering.pdf)
 Here is the link for the [PCA and LDA Notebook PDF](NB4-PCA-and-LDA.pdf)
 
 Here is the link to the [Report](SimilarityDocument.pdf)
+
+## Kernel and Ensemble
+
+Here is the link for the [Kernel and Ensemble pdf document]('Kernel and Ensemble Report'.pdf)
+
+Here is the link for the [SVM Regression notebook PDF](SVM-R.pdf)
+
+Here is the link for the [SVM Classification notebook PDF](SVM-C.pdf)
+
+Here is the link for the [Ensemble notebook PDF](Ensemble.pdf)
+
