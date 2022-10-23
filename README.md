@@ -36,7 +36,7 @@ Here is the link to the [Report](SimilarityDocument.pdf)
 
 ## Kernel and Ensemble
 
-Here is the link for the [Kernel and Ensemble pdf document]('Kernel and Ensemble Report'.pdf)
+Here is the link for the [Kernel and Ensemble pdf document](Kernel_and_Ensemble_Report.pdf)
 
 Here is the link for the [SVM Regression notebook PDF](SVM-R.pdf)
 
