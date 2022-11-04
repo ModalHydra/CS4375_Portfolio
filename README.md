@@ -44,3 +44,7 @@ Here is the link for the [SVM Classification notebook PDF](SVM-C.pdf)
 
 Here is the link for the [Ensemble notebook PDF](Ensemble.pdf)
 
+## ML with Sklearn
+
+Here is the link for the [Sklearn pdf](ML_with_Sklearn.pdf)
+
